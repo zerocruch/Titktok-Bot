@@ -1,0 +1,6 @@
+pillow
+moviepy
+pyautogui
+pyperclip
+pyttsx3
+requests
